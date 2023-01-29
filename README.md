@@ -1,16 +1,12 @@
 ### Hi there 👋
 
-<!--
-**zanminkian/zanminkian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💻 I'm a programmer who wants to make the world easier
+   - [tsconfig](https://github.com/zanminkian/tsconfig): Strict shared tsconfig out-of-box
+   - [code-server](https://github.com/zanminkian/code-server): Build you developing environment in docker and access VSCode in browser
+   - [sync-pnpm-deps](https://github.com/zanminkian/sync-pnpm-deps): Sync pnpm deps by monorepo graph
+- 🔭 I’m currently working on [Bytedance](https://github.com/bytedance)
+- 🌱 I’m currently learning React
+- 💬 Ask me about
+   - Node
+   - Java
+   - Backend
