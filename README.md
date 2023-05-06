@@ -9,6 +9,6 @@
 - 🔭 I’m currently working on [Bytedance](https://github.com/bytedance)
 - 🌱 I’m currently learning React & Go
 - 💬 Ask me about
-   - Node
+   - Node / JavaScript / TypeScript
    - Java
    - Backend
