@@ -3,7 +3,7 @@
 - 👨🏻‍💻 I'm a programmer who wants to make the world easier
   |Project|Stars|Description|
   |----|----|----|
-  |[web-ide](https://github.com/zanminkian/web-ide)|[![GitHub stars](https://img.shields.io/github/stars/zanminkian/web-ide.svg)](https://github.com/zanminkian/web-ide)|🖥️ A web IDE including all the tools you need for an enjoyable coding experience.|
+  |[web-ide](https://github.com/zanminkian/web-ide)|[![GitHub stars](https://img.shields.io/github/stars/zanminkian/web-ide.svg)](https://github.com/zanminkian/web-ide)|🖥️ An out-of-box web IDE containing many tools for an enjoyable coding experience.|
   |[git-validator](https://github.com/zanminkian/git-validator)|[![GitHub stars](https://img.shields.io/github/stars/zanminkian/git-validator.svg)](https://github.com/zanminkian/git-validator)|📈 Git hooks and code style Validator.|
   |[nest-boilerplate](https://github.com/zanminkian/nest-boilerplate)|[![GitHub stars](https://img.shields.io/github/stars/zanminkian/nest-boilerplate.svg)](https://github.com/zanminkian/nest-boilerplate)|🐈 A super tiny, simple and elegant Nest app starter template.|
   |[react-boilerplate](https://github.com/zanminkian/react-boilerplate)|[![GitHub stars](https://img.shields.io/github/stars/zanminkian/react-boilerplate.svg)](https://github.com/zanminkian/react-boilerplate)|🏕 An elegant `React` app starter template.|
