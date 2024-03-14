@@ -10,6 +10,6 @@
   |[typed-jest](https://github.com/zanminkian/typed-jest)|[![GitHub stars](https://img.shields.io/github/stars/zanminkian/typed-jest.svg)](https://github.com/zanminkian/typed-jest)|🧪 Test framework supporting TypeScript out-of-box.|
   |[sync-pnpm-deps](https://github.com/zanminkian/sync-pnpm-deps)|[![GitHub stars](https://img.shields.io/github/stars/zanminkian/sync-pnpm-deps.svg)](https://github.com/zanminkian/sync-pnpm-deps)|Sync pnpm deps according to monorepo graph.|
 - 📖 My tech blog is [here](https://zanminkian.github.io)
-- 🔭 I’m working on Alibaba currently and [Bytedance](https://github.com/bytedance) formerly.
-- 🌱 I’m currently learning React, T3 Stack, and framework design.
+- 🔭 I’m working on Alibaba currently and [Bytedance](https://github.com/bytedance) formerly
+- 🌱 I’m currently learning React, T3 Stack, and framework design
 - 💬 Ask me about `Node` / `TypeScript` / `JavaScript` / `Backend` 
