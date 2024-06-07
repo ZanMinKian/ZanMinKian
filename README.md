@@ -7,7 +7,6 @@
   |[git-validator](https://github.com/zanminkian/git-validator)|[![GitHub stars](https://img.shields.io/github/stars/zanminkian/git-validator.svg)](https://github.com/zanminkian/git-validator)|📈 Git hooks and code style Validator.|
   |[@rnm/tscx](https://github.com/rnmjs/tscx)|[![GitHub stars](https://img.shields.io/github/stars/rnmjs/tscx.svg)](https://github.com/rnmjs/tscx)|🔧 A tiny tsc wrapper with many convenient options.|
   |[typed-jest](https://github.com/zanminkian/typed-jest)|[![GitHub stars](https://img.shields.io/github/stars/zanminkian/typed-jest.svg)](https://github.com/zanminkian/typed-jest)|🧪 An all-in-one test framework supporting TypeScript out-of-box.|
-  |[sync-pnpm-deps](https://github.com/zanminkian/sync-pnpm-deps)|[![GitHub stars](https://img.shields.io/github/stars/zanminkian/sync-pnpm-deps.svg)](https://github.com/zanminkian/sync-pnpm-deps)|Sync pnpm deps according to monorepo graph.|
 
   |Template|Stars|Description|
   |----|----|----|
